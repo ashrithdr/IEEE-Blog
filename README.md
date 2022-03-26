@@ -43,7 +43,7 @@ The Zigbee technology’s structure is very flexible. Zigbee technology has a si
 ### 5)	Monitoring  ###
 The Zigbee technology is simple to track and control, it is simple to maintain with the help of remote because it is mainly used for home appliances.
 
-<img src = "https://github.com/ashrithdr/IEEE-Blog/blob/main/Picture%201.jpg" style="height: 300px; width:500px;"/>
+<img src = "https://github.com/ashrithdr/IEEE_Blog_AshrithDR/blob/main/Picture%203.webp" style="height: 300px; width:500px;"/>
 
 # Disadvantages of ZigBee Technology #
 
