@@ -68,7 +68,7 @@ Zigbee is ideal for controlling home apparatuses remotely and can control device
 ### 3)	Smart Metering ###
 Zigbee remote tasks in smart metering include energy utilization reaction, estimation support and provides security against power theft from others.
 
-<img src = "https://github.com/ashrithdr/IEEE-Blog/blob/main/3.png" style="height: 300px; width:500px;"/>
+<img src = "https://github.com/ashrithdr/IEEE-Blog/blob/main/Picture%202.png" style="height: 300px; width:500px;"/>
 
 
 # References #
