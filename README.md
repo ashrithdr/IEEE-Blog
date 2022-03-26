@@ -8,7 +8,7 @@ Description: 'Zigbee is a wireless technology developed as an open global standa
 tags: 
 - IEEE NITK
 - Blog
-- Robotics
+- ZigBee
 Categories:
 - Diode
 github_username: 'ashrithdr'
