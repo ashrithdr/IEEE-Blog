@@ -23,7 +23,7 @@ ZigBee is specifically designed for control and sensor networks based on the IEE
 Zigbee WPANS operate at frequencies of 8MHz, 902-928MHz, and 2.4GHz. The 250-kbps data are ideal for periodic transmission and intermediate two data transmission between controllers and sensors. 
 
 <br />
-<img src = "https://github.com/ashrithdr/IEEE-Blog/blob/main/zigbee.jpg" style="height: 300px; width:500px;"/>
+<img src = "https://github.com/ashrithdr/IEEE-Blog/blob/main/Picture%201.jpg" style="height: 300px; width:500px;"/>
 <br />
 
 # Advantages of ZigBee Technology #
